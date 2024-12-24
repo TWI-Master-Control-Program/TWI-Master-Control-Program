@@ -1,0 +1,51 @@
+[submodule "MCP"]
+	path = MCP
+	url = https://github.com/TWI-Master-Control-Program/MCP.git
+[submodule "MCP.Browser"]
+	path = MCP.Browser
+	url = https://github.com/TWI-Master-Control-Program/MCP.Browser.git
+[submodule "MCP.Desktop"]
+	path = MCP.Desktop
+	url = https://github.com/TWI-Master-Control-Program/MCP.Desktop.git
+[submodule "MCP.Desktop.Linux"]
+	path = MCP.Desktop.Linux
+	url = https://github.com/TWI-Master-Control-Program/MCP.Desktop.Linux.git
+[submodule "MCP.Desktop.MacOS"]
+	path = MCP.Desktop.MacOS
+	url = https://github.com/TWI-Master-Control-Program/MCP.Desktop.MacOS.git
+[submodule "MCP.Desktop.Windows"]
+	path = MCP.Desktop.Windows
+	url = https://github.com/TWI-Master-Control-Program/MCP.Desktop.Windows.git
+[submodule "MCP.Embedded"]
+	path = MCP.Embedded
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.git
+[submodule "MCP.Embedded.Gpio"]
+	path = MCP.Embedded.Gpio
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.Gpio.git
+[submodule "MCP.Embedded.Meadow"]
+	path = MCP.Embedded.Meadow
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.Meadow.git
+[submodule "MCP.Embedded.Meadow.Linux"]
+	path = MCP.Embedded.Meadow.Linux
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.Meadow.Linux.git
+[submodule "MCP.Embedded.Meadow.MacOS"]
+	path = MCP.Embedded.Meadow.MacOS
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.Meadow.MacOS.git
+[submodule "MCP.Embedded.Meadow.Windows"]
+	path = MCP.Embedded.Meadow.Windows
+	url = https://github.com/TWI-Master-Control-Program/MCP.Embedded.Meadow.Windows.git
+[submodule "MCP.Mobile"]
+	path = MCP.Mobile
+	url = https://github.com/TWI-Master-Control-Program/MCP.Mobile.git
+[submodule "MCP.Mobile.Android"]
+	path = MCP.Mobile.Android
+	url = https://github.com/TWI-Master-Control-Program/MCP.Mobile.Android.git
+[submodule "MCP.Mobile.iOS"]
+	path = MCP.Mobile.iOS
+	url = https://github.com/TWI-Master-Control-Program/MCP.Mobile.iOS.git
+[submodule "MCP.Services"]
+	path = MCP.Services
+	url = https://github.com/TWI-Master-Control-Program/MCP.Services.git
+[submodule "MCP.Utilities"]
+	path = MCP.Utilities
+	url = https://github.com/TWI-Master-Control-Program/MCP.Utilities.git
